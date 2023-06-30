@@ -17,6 +17,5 @@ public class TestReferencia {
         andres.setNombre("Andres");
 
         Cuenta cuentaAndres = new Cuenta(1);
-        cuentaAndres.setAgencia(1);
     }
 }
